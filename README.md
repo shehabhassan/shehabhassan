@@ -5,9 +5,11 @@
 
 
 
+<h2 align='center' > I’m currently Working On My Reaserch on IOT Technology. </h2>
+
 ##  Skills and Tools 
-- 💻 Python & C++, JS, TS, HTML & CSS
-- 🖥️ Matlab
+- 💻 C, Python & C++, JS, TS, HTML & CSS
+- 🖥️ linux 
 
 <!--
 **shehabhassan/shehabhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
