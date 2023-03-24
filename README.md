@@ -3,7 +3,7 @@
 <p align='center' href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&pause=500&color=597FF7&background=FFFDFB00&center=true&vCenter=true&width=437&height=53&lines=Welcome+To+my+Github+Profile+;I+am+Mechatronics+Engineer+" alt="I am Mechatronics Engineer"/>
 </p>
 
-## I’m currently Working My Reaserch on IOT Technology. 
+
 
 ##  Skills and Tools 
 - 💻 Python & C++, JS, TS, HTML & CSS
