@@ -10,7 +10,6 @@
 <a href="https://www.hackerrank.com/shehabhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shehabhassan" height="30" width="40" /></a>
 </p>
 <h3 align= "left">Projects:</h3>
-![shehabhassan](https://github.com/shehabhassan/Payment-application/assets/50132313/f69eac80-80f4-4126-ab44-5cc5553cace8)
 <a href="https://github.com/shehabhassan/Payment-application" alt ="c" width="50" height= "50"> </a>
 <hr>
 <h4 align="left">Languages and Tools:</h4>
