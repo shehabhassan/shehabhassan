@@ -5,13 +5,17 @@
 <br>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/shehab-hassan-29a896130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shehab-hassan-29a896130/" height="30" width="40" /></a>
+
+ <a href="https://www.linkedin.com/in/shehab-hassan-29a896130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shehab-hassan-29a896130/" height="30" width="40" /></a>
+
 <a href="https://www.facebook.com/shehabhasn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shehabhasn" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/shehabhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shehabhassan" height="30" width="40" /></a>
+
+<a href="https://github.com/shehabhassan/Portfolio_Website" alt ="c" width="50" height= "50"> <img src = "https://github.com/shehabhassan/Portfolio_Website/blob/main/1.png" height="30" width="40" alt = ""/> 
 </p>
 <h3 align= "left">Projects:</h3>
 <a href="https://github.com/shehabhassan/Payment-application" alt ="c" width="50" height= "50"> <img src="https://github.com/shehabhassan/shehabhassan/blob/main/payment.jpg" alt="c" width="150" height="150"/></a>
-<a href="https://github.com/shehabhassan/Portfolio_Website" alt ="c" width="50" height= "50"> <img src = "https://github.com/shehabhassan/Portfolio_Website/blob/main/1.png" height = "150" width = "150" alt = ""/>
 <a href="https://github.com/shehabhassan/ON_DOMAN_Traffic_Light_App" alt ="c" width="50" height= "50"> <img src = "https://github.com/shehabhassan/ON_DOMAN_Traffic_Light_App/blob/main/color_explain.png" height = "150" width = "150" alt = ""/>  
 <hr>
 <h4 align="left">Languages and Tools:</h4>
