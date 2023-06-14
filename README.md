@@ -1,6 +1,6 @@
 ### <h1 align="left"> Hi there 👋 I am Shehab Hassan  Welcome to my Profile</h1>
 
-<h2 align='center' > I’m currently Working On My Reaserch on IOT Technology. </h2>
+<h2 align='center' > I’m currently Working On My research on IOT Technology. </h2>
 <br>
 <h4 align="left">Connect with me:</h4>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shehabhassan&show_icons=true&locale=en&theme=dark" alt="shehabhassan" /></p>
@@ -16,7 +16,7 @@
 <a href="https://github.com/shehabhassan/Heart_Rate_Montering" alt ="c" width="50" height= "50"> <img src = "https://github.com/shehabhassan/Heart_Rate_Montering/blob/main/blynk.png" height = "75" width = "75" alt = ""/>
  <a href="https://github.com/shehabhassan/Smart_Green_House" alt ="c" width="50" height= "50"> <img src = "https://github.com/shehabhassan/Smart_Green_House/blob/main/energies-15-03834-g001.png" height = "75" width = "75" alt = ""/>
 <hr> 
-<h3 align= "left">Front-End Projects:</h3>
+<h3 align= "left">HTML & CSS Projects:</h3>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehabhassan&show_icons=true&locale=en&layout=compact&theme=radical" alt="shehabhassan" /></p>
 <a href="https://github.com/shehabhassan/Portfolio_Website" width="50" height= "50"> <img src = "https://github.com/shehabhassan/Portfolio_Website/blob/main/1.png" height="100" width="200" alt = ""/>
 <br> 
