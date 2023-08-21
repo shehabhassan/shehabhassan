@@ -1,6 +1,6 @@
 ### <h1 align="left"> Hi there 👋 I am Shehab Hassan  Welcome to my Profile</h1>
 
-<h2 align='center' > I’m currently Working On My research on IOT Technology. </h2>
+<h2 align='center' > I’m currently Working On My research on IOT Device and TinyML. </h2>
 <br>
 <h4 align="left">Connect with me:</h4>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shehabhassan&show_icons=true&locale=en&theme=dark" alt="shehabhassan" /></p>
