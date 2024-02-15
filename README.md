@@ -9,10 +9,6 @@
 <a href="https://www.facebook.com/shehabhasn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shehabhasn" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shehabhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shehabhassan" height="30" width="40" /></a> 
 </p>
-
-<h3 align= "left">Embedded & IoT Projects:</h3>
-<a href="https://github.com/shehabhassan/Heart_Rate_Montering" alt ="c" width="50" height= "50"> <img src = "https://github.com/shehabhassan/Heart_Rate_Montering/blob/main/blynk.png" height = "75" width = "75" alt = ""/>
- <a href="https://github.com/shehabhassan/Smart_Green_House" alt ="c" width="50" height= "50"> <img src = "https://github.com/shehabhassan/Smart_Green_House/blob/main/energies-15-03834-g001.png" height = "75" width = "75" alt = ""/>
 <hr> 
 <!-- <h3 align= "left">HTML & CSS Projects:</h3>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehabhassan&show_icons=true&locale=en&layout=compact&theme=radical" alt="shehabhassan" /></p>
