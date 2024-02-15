@@ -11,8 +11,6 @@
 </p>
 
 <h3 align= "left">Embedded & IoT Projects:</h3>
-<a href="https://github.com/shehabhassan/Payment-application" alt ="c" width="50" height= "50"> <img src="https://github.com/shehabhassan/shehabhassan/blob/main/payment.jpg" alt="c" width="75" height="75"/></a>
-<a href="https://github.com/shehabhassan/ON_DOMAN_Traffic_Light_App" alt ="c" width="50" height= "50"> <img src = "https://github.com/shehabhassan/ON_DOMAN_Traffic_Light_App/blob/main/color_explain.png" height = "75" width = "75" alt = ""/>
 <a href="https://github.com/shehabhassan/Heart_Rate_Montering" alt ="c" width="50" height= "50"> <img src = "https://github.com/shehabhassan/Heart_Rate_Montering/blob/main/blynk.png" height = "75" width = "75" alt = ""/>
  <a href="https://github.com/shehabhassan/Smart_Green_House" alt ="c" width="50" height= "50"> <img src = "https://github.com/shehabhassan/Smart_Green_House/blob/main/energies-15-03834-g001.png" height = "75" width = "75" alt = ""/>
 <hr> 
