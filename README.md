@@ -1,11 +1,7 @@
 <!-- "Header" -->
   ### <h1 align="center"> Hi there 👋 I am Shehab Hassan  Welcome to my Profile</h1>
   <br />
-  <br />
      <h2 align='center' > I’m Embedded Software Engineer  </h2>  
-  <br />
-  <br />
-  
 <h4 align="left">📝 Feel free to contact me. I am always here ...</h4>
 <a href="https://www.linkedin.com/in/shehab-hassan-29a896130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shehab-hassan-29a896130/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/shehabhasn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shehabhasn" height="30" width="40" /></a>
