@@ -24,7 +24,9 @@
 <br />
 <tr>
     <td>
-      <a href=#><img src = "https://github.com/shehabhassan/shehabhassan/assets/50132313/364a0c24-532a-4c86-998a-0ab17e74fb57"  align="left" width = "200" > </a>
+      <a href=#><img src = "https://github.com/shehabhassan/shehabhassan/assets/50132313/364a0c24-532a-4c86-998a-0ab17e74fb57"     align="left" width = "250" > </a>
+      <a href=#><img src = "https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" align="centre" width = "250" > </a>
+      <a href=#><img src = "https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" align="right" width = "300" > </a>
       <h4 align="right">View Count</h4>
      <a href=#><img src="https://profile-counter.glitch.me/shehabhassan/count.svg" alt="View Count" width="200" align="right"></a>
     </td>
