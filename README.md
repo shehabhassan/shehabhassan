@@ -2,7 +2,7 @@
   ### <h1 align="center"> Hi there 👋 I am Shehab Hassan  Welcome to my Profile</h1> 
  <h2 align='center' > I’m Embedded Software Engineer  </h2>  
  <p>
-<a target="_blank" href="https://mkpang.space/"><img width="300" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" ></a>   
+<a target="_blank" href="https://mkpang.space/"><img width="200" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" ></a>   
  </p>
 <h3 align="left">📝 Feel free to contact me. I am always here ...</h3>
 
