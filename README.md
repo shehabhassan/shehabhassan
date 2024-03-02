@@ -1,10 +1,12 @@
 <!-- "Header" -->
-  ### <h1 align="center"> Hi there 👋 I am Shehab Hassan  Welcome to my Profile</h1>
-  <br /> 
+  ### <h1 align="center"> Hi there 👋 I am Shehab Hassan  Welcome to my Profile</h1> 
  <h2 align='center' > I’m Embedded Software Engineer  </h2>  
- <br>
- <a target="_blank" href="https://mkpang.space/"><img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
-<h4 align="left">📝 Feel free to contact me. I am always here ...</h4>
+ <p>
+<a target="_blank" href="https://mkpang.space/"><img width="300" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" ></a>   
+ </p>
+<h3 align="left">📝 Feel free to contact me. I am always here ...</h3>
+
+<p>
 <a href="https://www.linkedin.com/in/shehab-hassan-29a896130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shehab-hassan-29a896130/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/shehabhasn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shehabhasn" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shehabhassan" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shehabhassan" height="30" width="40" /></a> 
