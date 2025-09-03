@@ -29,6 +29,8 @@
       <a href=#><img src = "https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" align="centre" width = "250" > </a>
       <a href=#><img src = "https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" align="right" width = "300" > </a>
       <h4 align="right">View Count</h4>
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=shehabhassan" alt="Visitor Count" align="right">
+<!--       <h4 align="right">View Count</h4>
      <a href=#><img src="https://profile-counter.glitch.me/shehabhassan/count.svg" alt="View Count" width="200" align="right"></a>
-    </td>
+    </td> -->
 </tr>
